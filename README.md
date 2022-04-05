@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoftParticle
-- 📫 How to reach me: softparticle.business@gmail.com
+- 📫 How to reach me for business related issues: softparticle.business@gmail.com
 
 <!---
 SoftParticle/SoftParticle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
