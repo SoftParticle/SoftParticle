@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoftParticle
+- 👋 Hi, I’m Particle
 - 📫 How to reach me for business related issues: softparticle.business@gmail.com
 
 <!---
